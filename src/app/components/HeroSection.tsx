@@ -7,7 +7,7 @@ import Link from "next/link";
 const HeroSection = () => {
   return (
     <>
-      <section className="lg:py-16 px-4">
+      <section className="lg:py-16 px-4 lg:px-1">
         <div className="grid grid-cols-1 sm:grid-cols-12">
           <div className="col-span-8 place-self-center text-center sm:text-left justify-self-start">
             <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-7xl lg:leading-normal font-extrabold">
